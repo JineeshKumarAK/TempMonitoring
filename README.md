@@ -1,4 +1,4 @@
-# TempMonitoring
+# TempMonitoring with Tkinter UI 
 Laptop Temperature Monitoring Code
 
 #why this code
@@ -6,4 +6,4 @@ I was facing an issue with my laptop (CPU fan not working) So when im using my l
 
 #Pre Requists
 apt-get install sensors
-
+Tkinter Package
